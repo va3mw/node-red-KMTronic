@@ -1,6 +1,8 @@
 # node-red-KMTronic
 This is a node-red flow for controlling a KMTronic TCP Web Switch.
 
+Node-Red https://nodered.org/
+
 This flow requires from the Pallet Manager
 
 Dashboard - node-red-dashboard
